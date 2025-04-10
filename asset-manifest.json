@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/calculadora_porcentagem/static/css/main.c95faf38.css",
-    "main.js": "/calculadora_porcentagem/static/js/main.a82fbcfc.js",
+    "main.css": "/calculadora_porcentagem/static/css/main.acfbd7ec.css",
+    "main.js": "/calculadora_porcentagem/static/js/main.6bf572dd.js",
     "static/js/453.22af1c0e.chunk.js": "/calculadora_porcentagem/static/js/453.22af1c0e.chunk.js",
     "static/media/bootstrap-icons.woff?": "/calculadora_porcentagem/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/calculadora_porcentagem/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/calculadora_porcentagem/index.html",
-    "main.c95faf38.css.map": "/calculadora_porcentagem/static/css/main.c95faf38.css.map",
-    "main.a82fbcfc.js.map": "/calculadora_porcentagem/static/js/main.a82fbcfc.js.map",
+    "main.acfbd7ec.css.map": "/calculadora_porcentagem/static/css/main.acfbd7ec.css.map",
+    "main.6bf572dd.js.map": "/calculadora_porcentagem/static/js/main.6bf572dd.js.map",
     "453.22af1c0e.chunk.js.map": "/calculadora_porcentagem/static/js/453.22af1c0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c95faf38.css",
-    "static/js/main.a82fbcfc.js"
+    "static/css/main.acfbd7ec.css",
+    "static/js/main.6bf572dd.js"
   ]
 }
